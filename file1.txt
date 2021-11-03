@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 created by Christy, Rachel, Colin on 11/03/21 at 14:02
 
 STEP 4:  line added by Colin on 11/03/21 at 14:34
+=======
+hello
+
+STEP 3:  added by christy on 11/03/2021 at 14:28
+
+STEP 4:  line added by YOUR_NAME on 11/06/19 at 14:16
+>>>>>>> 1993f6c774de73796ee41b65dcebaed98b5fb0d9
